@@ -2,42 +2,59 @@
 
 ## ServiceNow | Python | Power BI | Data Analysis | IT Solutions
 
-Profissional de tecnologia com experiência em suporte técnico, automação, análise de dados e soluções corporativas, atualmente em transição para o ecossistema ServiceNow.
+Profissional de tecnologia com sólida experiência em suporte técnico, automação, análise de dados e soluções corporativas. Atualmente em transição estratégica para o ecossistema **ServiceNow**, com foco em certificação e crescimento profissional na plataforma.
 
-Concluí minha formação inicial na plataforma e estou me preparando para a certificação, desenvolvendo conhecimentos em processos de ITSM, automação de fluxos e soluções voltadas à eficiência operacional.
+Combino visão técnica, experiência prática e foco em resultados por meio de melhoria contínua, inteligência operacional e transformação digital.
 
-Tenho atuação prática com Python, Power BI, análise de dados e melhoria de processos, unindo visão técnica e foco em resultados de negócio.
+---
 
-### Áreas de Atuação
+## Especialidades
 
-- ServiceNow e processos de ITSM
-- Automação de processos com Python
-- Dashboards e indicadores com Power BI
-- Análise e tratamento de dados
-- Suporte técnico e soluções de TI
-- Melhoria contínua e eficiência operacional
+* ServiceNow e processos ITSM
+* Automação de processos com Python
+* Dashboards executivos em Power BI
+* Análise e tratamento de dados
+* Suporte técnico corporativo
+* Melhoria de processos e eficiência operacional
 
-### Tecnologias e Ferramentas
+---
+
+## Stack Tecnológica
 
 `ServiceNow` `Python` `Pandas` `Power BI` `SQL` `Excel` `Git` `GitHub`
 
-### Objetivo Atual
+---
 
-Fortalecer minha atuação em ServiceNow, com foco em administração da plataforma, processos corporativos, automação e inteligência operacional.
+## Objetivo Atual
 
-### Projetos em Destaque
+Desenvolver carreira sólida no ecossistema ServiceNow, atuando com administração da plataforma, processos corporativos, automação e inovação operacional.
 
-- Projetos de análise de consumo de energia
-- Dashboards corporativos em Power BI
-- Automação de rotinas com Python
-- Laboratório técnico para suporte e testes
-- Estudos e evolução prática em ServiceNow
+---
 
-### Contato
+## Projetos em Destaque
 
-🌐 https://www.dataw.com.br/  
-💼 LinkedIn: brancaglioni  
+* ServiceNow Career Transition
+* Laboratório técnico com Python para suporte
+* Dashboards corporativos em Power BI
+* Projeto de consumo inteligente de energia
+* Automação de rotinas e análise de dados
+
+---
+
+## Contato
+
+📧 E-mail: [w.brancaglioni@uol.com.br](mailto:w.brancaglioni@uol.com.br)
+💼 LinkedIn: [www.linkedin.com/in/brancaglioni](http://www.linkedin.com/in/brancaglioni)
 📍 Brasil
 
 ---
-Profissional em constante evolução, conectando tecnologia, processos e dados para gerar valor ao negócio.
+
+## GitHub Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brancaglioni75\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brancaglioni75\&layout=compact\&hide_border=true)
+
+---
+
+⭐ Tecnologia, processos e dados conectados para gerar resultados reais.
