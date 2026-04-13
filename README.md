@@ -1,16 +1,43 @@
-## Hi there 👋
+# Wilson Brancaglioni
 
-<!--
-**brancaglioni75/brancaglioni75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ServiceNow | Python | Power BI | Data Analysis | IT Solutions
 
-Here are some ideas to get you started:
+Profissional de tecnologia com experiência em suporte técnico, automação, análise de dados e soluções corporativas, atualmente em transição para o ecossistema ServiceNow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concluí minha formação inicial na plataforma e estou me preparando para a certificação, desenvolvendo conhecimentos em processos de ITSM, automação de fluxos e soluções voltadas à eficiência operacional.
+
+Tenho atuação prática com Python, Power BI, análise de dados e melhoria de processos, unindo visão técnica e foco em resultados de negócio.
+
+### Áreas de Atuação
+
+- ServiceNow e processos de ITSM
+- Automação de processos com Python
+- Dashboards e indicadores com Power BI
+- Análise e tratamento de dados
+- Suporte técnico e soluções de TI
+- Melhoria contínua e eficiência operacional
+
+### Tecnologias e Ferramentas
+
+`ServiceNow` `Python` `Pandas` `Power BI` `SQL` `Excel` `Git` `GitHub`
+
+### Objetivo Atual
+
+Fortalecer minha atuação em ServiceNow, com foco em administração da plataforma, processos corporativos, automação e inteligência operacional.
+
+### Projetos em Destaque
+
+- Projetos de análise de consumo de energia
+- Dashboards corporativos em Power BI
+- Automação de rotinas com Python
+- Laboratório técnico para suporte e testes
+- Estudos e evolução prática em ServiceNow
+
+### Contato
+
+🌐 https://www.dataw.com.br/  
+💼 LinkedIn: brancaglioni  
+📍 Brasil
+
+---
+Profissional em constante evolução, conectando tecnologia, processos e dados para gerar valor ao negócio.
